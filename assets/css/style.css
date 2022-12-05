@@ -1,0 +1,44 @@
+* { 
+    background-color:bisque;
+}
+
+.mont {
+    font-family: 'Montserrat';
+    color: black;
+    font-weight: 600;
+}
+
+.montThin {
+    font-family: 'Montserrat';
+    color:black;
+}
+
+
+li:hover {
+    transform:scale(1.05);
+}
+
+h1 {
+    text-align:center;
+}
+
+.dance {
+    font-size: 40px;
+    font-family: 'Dancing Script';
+    padding-bottom:20px;
+}
+
+.burgers {
+    text-align:center;
+    padding-left: 10px;
+
+}
+
+.menuItem {
+    padding:20px;
+    font-size: 18px;
+}
+
+.milkshakes {
+    text-align:center;
+}
